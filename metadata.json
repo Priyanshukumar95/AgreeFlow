@@ -1,0 +1,6 @@
+{
+  "name": "AgreeFlow",
+  "description": "Convert messy meeting notes into structured action plans with verified source quotes, decisions, open questions, and missing metadata alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
